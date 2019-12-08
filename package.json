@@ -1,0 +1,15 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is just a quick project that I threw together.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node express.js",
+    "start": "node express.js"
+  },
+  "author": "Damian Freeman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
