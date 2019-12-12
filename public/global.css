@@ -10,58 +10,12 @@ body {
     background-color: bisque;
 }
 
-h1 {
-    font-family: "Solway", serif;
-}
-
-h2 {
-    font-family: "Solway", serif;
-}
-
-h3 {
-    font-family: "Solway", serif;
-}
-
-h4 {
-    font-family: "Solway", serif;
-}
-
-h5 {
-    font-family: "Solway", serif;
-}
-
-h6 {
-    font-family: "Solway", serif;
-}
-
-i {
-    font-family: "Solway", serif;
-}
-
-p {
-    font-family: "Solway", serif;
-}
-
-b {
-    font-family: "Solway", serif;
-}
-
-u {
-    font-family: "Solway", serif;
-}
-
-ul {
-    font-family: "Solway", serif;
-}
-
-ol {
-    font-family: "Solway", serif;
-}
-
-li {
-    font-family: "Solway", serif;
-}
-
-a {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+i, p, b, u, ul, ol, il, a {
     font-family: "Solway", serif;
 }
